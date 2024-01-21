@@ -7,7 +7,7 @@ export default function Navbar() {
           <span>Budget App</span>
         </h2>
         <div className="flex items-center gap-4">
-          <h2>Sanjida Begum</h2>
+          <h2>Subrin Sumaia</h2>
           <a href="#" className="undeline text-sm text-white/50">
             Sign Out
           </a>
